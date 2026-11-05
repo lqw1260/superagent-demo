@@ -6,7 +6,7 @@
   --line: #e3e7ee;
   --accent: #2f6df6;
   /* 演示时只改这一行：2rem -> 2.25rem 就是一档 */
-  --title-size: 2rem;
+  --title-size: 2.25rem;
 }
 
 * { box-sizing: border-box; }
