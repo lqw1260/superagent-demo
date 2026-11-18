@@ -7,6 +7,7 @@
   --accent: #2f6df6;
   /* 演示时只改这一行：2rem -> 2.25rem 就是一档 */
   --title-size: 2rem;
+  --title-weight: 600;
 }
 
 * { box-sizing: border-box; }
@@ -27,6 +28,7 @@ body {
 .title {
   margin: 0 0 16px;
   font-size: var(--title-size);
+  font-weight: var(--title-weight);
   line-height: 1.3;
 }
 
